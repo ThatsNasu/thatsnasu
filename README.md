@@ -30,14 +30,14 @@ But i'm also working with a lot of other stuff not mentioned.
 
 ## :trophy: My stats:
 <div align="center">
-    <a href="https://github.com/thatsnasu">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsnasu&layout=compact" height="135" />
-    </a>
     <a href="https://github.com/thatsnasu/">
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D" height="135" />
-    </a>
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=github-dark-blue" height="200" />
+    </a><br />
     <a href="https://github.com/thatsnasu">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=thatsnasu" height="135" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsnasu&layout=compact&theme=github_dark&hide_border=true" height="200" />
+    </a><br />
+    <a href="https://github.com/thatsnasu">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=thatsnasu&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="200" />
     </a>
 </div>
 
