@@ -29,11 +29,9 @@ But i'm also working with a lot of other stuff not mentioned.
 ---
 
 ## :trophy: My stats:
-<div>
-    <a href="https://github.com/thatsnasu/">
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    </a>
-</div>
+<a href="https://github.com/thatsnasu/">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</a>
 <div>
     <a href="https://github.com/thatsnasu">
         <img src="https://github-readme-stats.vercel.app/api?username=thatsnasu" />
