@@ -27,16 +27,21 @@
 But i'm also working with a lot of other stuff not mentioned.
 
 ---
+
 ## :trophy: My stats:
-<a href="https://github.com/thatsnasu/">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</a><br />
-<a href="https://github.com/thatsnasu">
-    <img src="https://github-readme-stats.vercel.app/api?username=thatsnasu" />
-</a>
-<a href="https://github.com/thatsnasu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsnasu&layout=compact" />
-</a>
+<div>
+    <a href="https://github.com/thatsnasu/">
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    </a>
+</div>
+<div>
+    <a href="https://github.com/thatsnasu">
+        <img src="https://github-readme-stats.vercel.app/api?username=thatsnasu" />
+    </a>
+    <a href="https://github.com/thatsnasu">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsnasu&layout=compact" />
+    </a>
+</div>
 
 ## :writing_hand: My current Project
 Currently i'm working on a logging library. I stumbeled upon writing same code over and over again just to print some messages to the console or to a file, so i thought its time to settle this once and for all.
