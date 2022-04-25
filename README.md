@@ -1,13 +1,13 @@
 # Welcome to my profile. I'm Hauke
 ### :vulcan_salute: Passionate coder, probably impatient
- - Currently in a retraining
+ - Currently in retraining
  - Working on a [project](https://github.com/bitbitedev/openloglib) for [bitbite](https://github.com/bitbitedev).
  - Brainlagging, when it comes to creativity (I LOVE backend)
  - My goal for this year: Finish a project instead of abandonning it.
  - Most of the time, i'm using this...
 
 ## :hammer_and_wrench: Tools and Languages
-<div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" height="40" alt="Apache" title="Apache" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-plain-wordmark.svg" height="40" alt="Chrome" title="Chrome" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3" title="CSS3" />
@@ -29,20 +29,19 @@ But i'm also working with a lot of other stuff not mentioned.
 ---
 
 ## :trophy: My stats:
-<div>
+<div align="center">
+    <a href="https://github.com/thatsnasu">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsnasu&layout=compact" height="135" />
+    </a>
     <a href="https://github.com/thatsnasu/">
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    </a>
-<div>
-<div>
-    <a href="https://github.com/thatsnasu">
-        <img src="https://github-readme-stats.vercel.app/api?username=thatsnasu" />
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D" height="135" />
     </a>
     <a href="https://github.com/thatsnasu">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsnasu&layout=compact" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=thatsnasu" height="135" />
     </a>
 </div>
 
+
 ## :writing_hand: My current Project
-Currently i'm working on a logging library. I stumbeled upon writing same code over and over again just to print some messages to the console or to a file, so i thought its time to settle this once and for all.
+Currently i'm working on a logging library. I stumbled upon writing same code over and over again just to print some messages to the console or to a file, so i thought its time to settle this once and for all.
 If you would like to find out more about it, or maybe wanna help improve it, feel free to head over to [OpenLogLib](https://github.com/bitbitedev/openloglib) and take a look around.
