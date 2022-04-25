@@ -23,12 +23,20 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" title="Visual Studio" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
 </div>
+<br />
 But i'm also working with a lot of other stuff not mentioned.
 
 ---
 ## :trophy: My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsnasu&layout=compact)](https://github.com/thatsnasu/github-readme-stats)
+<a href="https://github.com/thatsnasu/">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=thatsnasu&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</a>
+<a href="https://github.com/thatsnasu">
+    <img src="https://github-readme-stats.vercel.app/api?username=thatsnasu" />
+</a>
+<a href="https://github.com/thatsnasu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsnasu&layout=compact" />
+</a>
 
 ## :writing_hand: My current Project
 Currently i'm working on a logging library. I stumbeled upon writing same code over and over again just to print some messages to the console or to a file, so i thought its time to settle this once and for all.
