@@ -1,6 +1,5 @@
 # Welcome to my profile. I'm Hauke
 ### :vulcan_salute: Passionate coder, probably impatient
- - Currently in retraining
  - Working on a [project](https://github.com/bitbitedev/openloglib) for [bitbite](https://github.com/bitbitedev).
  - Brainlagging, when it comes to creativity (I LOVE backend)
  - My goal for this year: Finish a project instead of abandonning it.
