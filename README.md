@@ -2,6 +2,7 @@
 ### :vulcan_salute: Passionate coder, probably impatient
  - Working on a [project](https://github.com/bitbitedev/openloglib) for [bitbite](https://github.com/bitbitedev).
  - Brainlagging, when it comes to creativity (I LOVE backend)
+ - Currently learning Svelte
  - My goal for this year: Finish a project instead of abandonning it.
  - Most of the time, i'm using this...
 
