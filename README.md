@@ -2,7 +2,7 @@
 ### :vulcan_salute: Passionate coder, probably impatient
  - Working on a [project](https://github.com/bitbitedev/openloglib) for [bitbite](https://github.com/bitbitedev).
  - Brainlagging, when it comes to creativity (I LOVE backend)
- - Currently learning Svelte
+ - Currently learning C++
  - My goal for this year: Finish a project instead of abandonning it.
  - Most of the time, i'm using this...
 
@@ -43,5 +43,4 @@ But i'm also working with a lot of other stuff not mentioned.
 
 
 ## :writing_hand: My current Project
-Currently i'm working on a logging library. I stumbled upon writing same code over and over again just to print some messages to the console or to a file, so i thought its time to settle this once and for all.
-If you would like to find out more about it, or maybe wanna help improve it, feel free to head over to [OpenLogLib](https://github.com/bitbitedev/openloglib) and take a look around.
+Currently i'm trying to wrap my head around C++ to improve my skills.
