@@ -1,9 +1,8 @@
 # Welcome to my profile. I'm Hauke
 ### :vulcan_salute: Passionate coder, probably impatient
- - Working on a [project](https://github.com/bitbitedev/openloglib) for [bitbite](https://github.com/bitbitedev).
+ - Working on a new library, you can check out the progress on the [projectboard](https://github.com/users/thatsnasu/projects/13) or on the [repository](https://github.com/thatsnasu/openirc).
  - Brainlagging, when it comes to creativity (I LOVE backend)
- - Currently learning C++
- - My goal for this year: Finish a project instead of abandonning it.
+ - Currently learning Test Driven Development
  - Most of the time, i'm using this...
 
 ## :hammer_and_wrench: Tools and Languages
@@ -43,4 +42,4 @@ But i'm also working with a lot of other stuff not mentioned.
 
 
 ## :writing_hand: My current Project
-Currently i'm trying to wrap my head around C++ to improve my skills.
+Currently i'm trying to wrap my head around TDD to improve my skills.
