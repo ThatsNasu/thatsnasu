@@ -1,6 +1,6 @@
 # Welcome to my profile. I'm Hauke
 ### :vulcan_salute: Passionate coder, probably impatient
- - Working on a new library, you can check out the progress on the [projectboard](https://github.com/users/thatsnasu/projects/13) or on the [repository](https://github.com/thatsnasu/openirc).
+ - Working on a new library, you can check out the progress on the [projectboard](https://github.com/users/thatsnasu/projects/8) or on the [repository](https://github.com/thatsnasu/openirc).
  - Brainlagging, when it comes to creativity (I LOVE backend)
  - Currently learning Test Driven Development, Continuous Integration / Continuous Deployment, Docker and Kubernetes
  - Most of the time, i'm using this...
@@ -10,13 +10,20 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" height="40" alt="Apache" title="Apache" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-plain-wordmark.svg" height="40" alt="Chrome" title="Chrome" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3" title="CSS3" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain" height="40" alt="Debian" title="Debian" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain" height="40" alt="Eclipse" title="Eclipse" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain-wordmark.svg" height="40" alt="Firefox" title="Firefox" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" height="40" alt="Git" title="Git" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" title="GitHub" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" height="40" alt="Gradle" title="Gradle" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML5" title="HTML5" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" height="40" alt="Json" title="Json" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" height="40" alt="Linux" title="Linux" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" height="40" alt="Lua" title="Lua" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB" title="MariaDB" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="40" alt="PHP" title="PHP" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" height="40" alt="Postman" title="Postman" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="RaspberryPi" title="RaspberryPi" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" alt="Ubuntu" title="Ubuntu" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" title="Visual Studio" />
