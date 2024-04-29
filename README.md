@@ -10,8 +10,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" height="40" alt="Apache" title="Apache" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-plain-wordmark.svg" height="40" alt="Chrome" title="Chrome" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3" title="CSS3" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain" height="40" alt="Debian" title="Debian" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain" height="40" alt="Eclipse" title="Eclipse" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" height="40" alt="Debian" title="Debian" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain.svg" height="40" alt="Eclipse" title="Eclipse" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain-wordmark.svg" height="40" alt="Firefox" title="Firefox" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" height="40" alt="Git" title="Git" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" title="GitHub" />
