@@ -15,6 +15,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain-wordmark.svg" height="48" alt="Firefox" title="Firefox" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" height="48" alt="Git" title="Git" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="48" alt="GitHub" title="GitHub" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" height="48" alt="GitLab" title="GitLab" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" height="48" alt="HTML5" title="HTML5" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="48" alt="Java" title="Java" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" height="48" alt="Json" title="Json" />
